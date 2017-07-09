@@ -1,0 +1,25 @@
+C:\Users\Susanta\AppData\Local\Temporary Projects\KeyLogger\bin\Debug\KeyLogger.exe
+C:\Users\Susanta\AppData\Local\Temporary Projects\KeyLogger\bin\Debug\KeyLogger.pdb
+C:\Users\Susanta\AppData\Local\Temporary Projects\KeyLogger\bin\Debug\KeyLogger.xml
+C:\Users\Susanta\AppData\Local\Temporary Projects\KeyLogger\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Susanta\AppData\Local\Temporary Projects\KeyLogger\obj\Debug\KeyLogger.Frm1.resources
+C:\Users\Susanta\AppData\Local\Temporary Projects\KeyLogger\obj\Debug\KeyLogger.Resources.resources
+C:\Users\Susanta\AppData\Local\Temporary Projects\KeyLogger\obj\Debug\KeyLogger.vbproj.GenerateResource.Cache
+C:\Users\Susanta\AppData\Local\Temporary Projects\KeyLogger\obj\Debug\KeyLogger.exe
+C:\Users\Susanta\AppData\Local\Temporary Projects\KeyLogger\obj\Debug\KeyLogger.xml
+C:\Users\Susanta\AppData\Local\Temporary Projects\KeyLogger\obj\Debug\KeyLogger.pdb
+E:\pendrive\KeyLogger\KeyLogger\obj\Debug\KeyLogger.exe
+E:\pendrive\KeyLogger\KeyLogger\obj\Debug\KeyLogger.xml
+E:\pendrive\KeyLogger\KeyLogger\obj\Debug\KeyLogger.pdb
+E:\pendrive\KeyLogger\KeyLogger\bin\Debug\KeyLogger.exe
+E:\pendrive\KeyLogger\KeyLogger\bin\Debug\KeyLogger.pdb
+E:\pendrive\KeyLogger\KeyLogger\bin\Debug\KeyLogger.xml
+E:\pendrive\KeyLogger\KeyLogger\obj\Debug\ResolveAssemblyReference.cache
+E:\pendrive\KeyLogger\KeyLogger\obj\Debug\KeyLogger.Frm1.resources
+E:\pendrive\KeyLogger\KeyLogger\obj\Debug\KeyLogger.Resources.resources
+E:\pendrive\KeyLogger\KeyLogger\obj\Debug\KeyLogger.vbproj.GenerateResource.Cache
+E:\pendrive\KeyLogger\KeyLogger\obj\Debug\KeyLogger.Frm2.resources
+E:\pendrive\KeyLogger\KeyLogger\bin\Debug\KeyLogger.exe.manifest
+E:\pendrive\KeyLogger\KeyLogger\bin\Debug\KeyLogger.application
+E:\pendrive\KeyLogger\KeyLogger\obj\Debug\KeyLogger.exe.manifest
+E:\pendrive\KeyLogger\KeyLogger\obj\Debug\KeyLogger.application
